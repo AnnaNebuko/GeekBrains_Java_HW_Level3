@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be48f905-53d8-4ce0-a670-50284da36c17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qTLpvCuVu8GTPxdr0IYowhMyif" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.geekbrains.gb.server" />
+      <recent name="ru.geekbrains.gb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientNick1">
+    <configuration name="ClientNick1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.gb.ClientNick1" />
+      <module name="HW7_Level2_Chat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.gb.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientNick2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.gb.ClientNick2" />
+      <module name="HW7_Level2_Chat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.gb.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientNick3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.gb.ClientNick3" />
+      <module name="HW7_Level2_Chat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.gb.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.gb.ServerApp" />
+      <module name="HW7_Level2_Chat" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientNick2" />
+        <item itemvalue="Application.ClientNick1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ClientNick3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be48f905-53d8-4ce0-a670-50284da36c17" name="Default Changelist" comment="" />
+      <created>1617098821001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617098821001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="290" y="246" key="#com.intellij.ide.util.MemberChooser" timestamp="1617535854701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="290" y="246" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617535854701" />
+    <state x="385" y="190" key="FileChooserDialogImpl" timestamp="1618403811104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="385" y="190" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618403811104" />
+    <state width="1029" height="277" key="GridCell.Tab.0.bottom" timestamp="1618910673241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1029" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618910673241" />
+    <state width="1029" height="277" key="GridCell.Tab.0.center" timestamp="1618910673241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1029" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618910673241" />
+    <state width="1029" height="277" key="GridCell.Tab.0.left" timestamp="1618910673241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1029" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618910673241" />
+    <state width="1029" height="277" key="GridCell.Tab.0.right" timestamp="1618910673241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1029" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618910673241" />
+    <state width="1029" height="344" key="GridCell.Tab.1.bottom" timestamp="1618910673238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1029" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618910673238" />
+    <state width="1029" height="344" key="GridCell.Tab.1.center" timestamp="1618910673237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1029" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618910673237" />
+    <state width="1029" height="344" key="GridCell.Tab.1.left" timestamp="1618910673237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1029" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618910673237" />
+    <state width="1029" height="344" key="GridCell.Tab.1.right" timestamp="1618910673237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1029" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618910673237" />
+    <state x="0" y="99" key="SettingsEditor" timestamp="1618403815515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="99" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618403815515" />
+    <state x="0" y="145" key="new project wizard" timestamp="1618819576279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="145" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1618819576279" />
+    <state x="280" y="278" key="refactoring.ChangeSignatureDialog" timestamp="1617188852785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="280" y="278" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617188852785" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW7_Level2_Chat$ClientNick1.ic" NAME="ClientNick1 Coverage Results" MODIFIED="1617538159869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.geekbrains.gb.server.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HW7_Level2_Chat$ClientNick3.ic" NAME="ClientNick3 Coverage Results" MODIFIED="1617537463554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.geekbrains.gb.server.*</FILTER>
+    </SUITE>
+  </component>
+</project>
